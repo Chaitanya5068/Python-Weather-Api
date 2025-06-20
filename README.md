@@ -54,7 +54,7 @@ cd weather_dashboard
 pip install requests matplotlib seaborn dateparser
 
 # 4. Add your API key
-# In the script weather_dashboard.py, replace 'your_api_key_here' with your OpenWeatherMap API key
+ In the script weather_dashboard.py, replace 'your_api_key_here' with your OpenWeatherMap API key
 
 # 5. Run the script
 python weather_dashboard.py
