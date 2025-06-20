@@ -44,19 +44,19 @@ Output weather conditions like "clear sky", "scattered clouds"
 
 ---
 ## 📦 Installation & Run Instructions
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/Chaitanya5068/weather_dashboard
 
-# 2. Navigate to project directory
+2. Navigate to project directory
 cd weather_dashboard
 
-# 3. Install dependencies
+ 3. Install dependencies
 pip install requests matplotlib seaborn dateparser
 
-# 4. Add your API key
+ 4. Add your API key
  In the script weather_dashboard.py, replace 'your_api_key_here' with your OpenWeatherMap API key
 
-# 5. Run the script
+ 5. Run the script
 python weather_dashboard.py
 
 ---
