@@ -61,8 +61,12 @@ python weather_dashboard.py
 
 ---
 ## 📄 Sample Output
-🌦️ Welcome to Weather Dashboard!
-🏙️ Enter city name: Mumbai
+<img width="1623" height="91" alt="Screenshot 2025-07-17 002716" src="https://github.com/user-attachments/assets/388dd5ab-2fec-456b-aa7d-e0d5f40f0a68" />
+
+
+<img width="1918" height="1018" alt="Screenshot 2025-07-17 002657" src="https://github.com/user-attachments/assets/67a2a523-e5cc-464d-88e7-f68b1fee03c0" />
+
+
 
 📍 Weather Summary for Mumbai:
 ➡️ Next forecast: Clear sky at 2025-06-15 06:00 | 29.2°C
@@ -77,7 +81,7 @@ Chaitanya Bhosale
 
 🔗 GitHub: https://github.com/Chaitanya5068
 
-🔗 LinkedIn: https://www.linkedin.com/in/chaitanya-bhosale-705546358/overlay/contact-info/
+🔗 LinkedIn: www.linkedin.com/in/chaitanya-bhosale
 
 
 
