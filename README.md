@@ -66,11 +66,6 @@ python weather_dashboard.py
 
 <img width="1918" height="1018" alt="Screenshot 2025-07-17 002657" src="https://github.com/user-attachments/assets/67a2a523-e5cc-464d-88e7-f68b1fee03c0" />
 
-
-
-📍 Weather Summary for Mumbai:
-➡️ Next forecast: Clear sky at 2025-06-15 06:00 | 29.2°C
-
 ---
 ## 📜 License
 This project is licensed under the MIT License — you are free to use, modify, and distribute it with proper credit.
