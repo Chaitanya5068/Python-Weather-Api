@@ -32,17 +32,8 @@ To allow users to easily view weather forecasts for any city via the terminal, w
 ✅ datetime — for timestamp formatting
 
 ---
-## 💬 Sample Questions / Inputs
 
-Enter city: Pune, Mumbai, London
 
-Get hourly forecasts for 5 days
-
-Visual graph of temperature over time
-
-Output weather conditions like "clear sky", "scattered clouds"
-
----
 ## 📦 Installation & Run Instructions
 1. Clone the repository
 git clone https://github.com/Chaitanya5068/weather_dashboard
@@ -58,6 +49,44 @@ pip install requests matplotlib seaborn dateparser
 
  5. Run the script
 python weather_dashboard.py
+
+---
+## 🔑 Get an API Key
+
+Visit: https://openweathermap.org/api
+
+Sign up for free
+
+Copy your API key
+
+Open weather_forecast.py and replace:
+
+      API_KEY = "your_openweathermap_api_key"
+---
+## ▶️ Usage
+Run the script using Python:
+         
+         python weather_dashboard.py
+
+When prompted:
+
+     Enter city name: mumbai
+     Enter date: Today
+     
+📊 After execution:
+
+  Graphs will directly open infront of you on your screen.
+  
+---
+## 💬 Sample Questions / Inputs
+
+Enter city: Pune, Mumbai, London
+
+Get hourly forecasts for 5 days
+
+Visual graph of temperature over time
+
+Output weather conditions like "clear sky", "scattered clouds"
 
 ---
 ## 📄 Sample Output
