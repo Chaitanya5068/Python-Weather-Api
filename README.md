@@ -107,5 +107,9 @@ Chaitanya Bhosale
 
 🔗 LinkedIn: www.linkedin.com/in/chaitanya-bhosale
 
+---
 
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub!
 
